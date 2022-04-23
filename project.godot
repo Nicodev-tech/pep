@@ -13,6 +13,10 @@ config_version=4
 config/name="Pepsiman demake"
 config/icon="res://icon.png"
 
+[display]
+
+window/stretch/mode="viewport"
+
 [input]
 
 right={
